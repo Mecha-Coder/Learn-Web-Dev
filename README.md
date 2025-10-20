@@ -1,11 +1,10 @@
-## 🧠 Self-Learned Web Projects
+### 🧠 Self-Learned Web Projects
 
 This repository contains a collection of small web projects I built while learning full-stack development.  
-Each project helped me strengthen my understanding of web technologies and explore practical applications.
 
 ---
 
-### 🚀 Projects
+#### 🚀 Projects
 
 - [**Rock-Paper-Scissors Game**](https://github.com/Mecha-Coder/Rock-Paper-Scissors)
 
