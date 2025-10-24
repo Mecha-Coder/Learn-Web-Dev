@@ -18,7 +18,7 @@ This repository contains a collection of small web projects I built while learni
 - [**YouTube Clone**](https://github.com/Mecha-Coder/YouTube-Clone)
 - [**Amazon Clone**](https://github.com/Mecha-Coder/Amazon-Clone) 
 
-### Learning React
+### ⚛️ Learning React
 - [**Redux Toolkit**](https://github.com/Mecha-Coder/Redux-Toolkit)
 
 ---
