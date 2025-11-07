@@ -6,6 +6,9 @@ This repository contains a collection of small web projects I built while learni
 
 ### Projects
 
+### Fullstack
+- [**Job-Posting-Platform**](https://github.com/Mecha-Coder/Fullstack-Job-Posting)
+
 #### 🕹️ Games
 - [**Rock-Paper-Scissors**](https://github.com/Mecha-Coder/Rock-Paper-Scissors)
 - [**Tic-Tac-Toe**](https://github.com/Mecha-Coder/Tic-Tac-Toe)
